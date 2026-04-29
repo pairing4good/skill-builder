@@ -1,11 +1,5 @@
 # Claude Code Input: Create the `skill-builder` Skill
 
-Paste into Claude Code in an empty project directory. Prerequisites: `skill-creator` skill available, `skill-finder` skill available, and `skill-registry` MCP server connected.
-
----
-
-## Prompt for Claude Code
-
 Use the `skill-creator` skill to create a new skill called `skill-builder`. Read `skill-creator`'s SKILL.md first and follow its guidance for structure, evaluation, and iterative refinement.
 
 ### Purpose
